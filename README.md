@@ -7,7 +7,7 @@ REFERENCE : https://github.com/Coopercoppers/PFN#Data-Acquisition-and-Preprocess
 
 # My work
 Based on the origin [code](https://github.com/Coopercoppers/PFN#Data-Acquisition-and-Preprocessing), I build the model PFN from scratch in 
-```./model/pfn_from_scratch.py```
+```./model/pfn_from_scratch.py```. After experimental verification, it has similar performance to the original model.
 
 # DATASET
 
