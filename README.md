@@ -5,6 +5,9 @@ I do my own implementation of the model part from sratch which in ./model/pfn1.p
 
 REFERENCE : https://github.com/Coopercoppers/PFN#Data-Acquisition-and-Preprocessing.
 
+# My work
+Based on the origin [code](https://github.com/Coopercoppers/PFN#Data-Acquisition-and-Preprocessing), I build the model PFN from scratch in 
+```./model/pfn_from_scratch.py```
 
 # DATASET
 
